@@ -13,12 +13,3 @@
 </body>
 </html>
 
-<!DOCTYPE html>
-<html>
-<style>
-body {
-  font-size: 20px;
-}
-</body>
-</html>
-
