@@ -16,7 +16,5 @@ body {
 <p>I will display &#9800;</p>
 <p>I will display &#x2648;</p>
 
-</body>
-</html>
 
 
