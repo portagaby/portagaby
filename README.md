@@ -3,5 +3,3 @@
  joão de faria pioli 
  @gaby_hatake_
  @nathy_santoos265<b>
-<html>
-<body>
