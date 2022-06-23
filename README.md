@@ -19,13 +19,6 @@
 body {
   font-size: 20px;
 }
-</style>
-<body>
-
-<span style='font-size:100px;'>&#9803;</span>
-<p>I will display &#9803;</p>
-<p>I will display &#x264B;</p>
-
 </body>
 </html>
 
