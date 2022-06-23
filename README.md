@@ -12,9 +12,7 @@ body {
 </style>
 <body>
 
-<span style='font-size:100px;'>&#9800;</span>
-<p>I will display &#9800;</p>
-<p>I will display &#x2648;</p>
+>
 
 
 
