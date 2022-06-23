@@ -13,3 +13,17 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+<body>
+
+<span style='font-size:100px;'>&#9803;</span>
+
+
+</body>
+</html>
