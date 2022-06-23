@@ -5,11 +5,7 @@
  @nathy_santoos265<b>
 <!DOCTYPE html>
 <html>
-<style>
-body {
-  font-size: 20px;
-}
-</style>
+
 <body>
 
 <span style='font-size:100px;'>&#9800;</span>
